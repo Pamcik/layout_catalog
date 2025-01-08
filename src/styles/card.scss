@@ -103,5 +103,11 @@
     &:hover .card__title {
       color: $title-color-hover;
     }
+
+    &:hover  .card__button {
+      background-color: #fff;
+      color: #00acdc;
+      border: 1px solid #00acdc;
   }
+}
 }
